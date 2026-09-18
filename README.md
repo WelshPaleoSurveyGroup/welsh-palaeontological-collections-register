@@ -14,7 +14,7 @@ This repository is intended as a research infrastructure project rather than a c
 ## Current status
 
 **Release:** v0.3 — second-pass working register  
-**Date:** 12 September 2026
+**Date:** 18 September 2026
 
 The current workbook contains approximately:
 
