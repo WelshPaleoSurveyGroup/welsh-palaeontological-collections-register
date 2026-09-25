@@ -13,17 +13,19 @@ This repository is intended as a research infrastructure project rather than a c
 
 ## Current status
 
-**Release:** v0.3 — second-pass working register  
-**Date:** 18 September 2026
+**Release:** v0.4 — third pass working register
+**Date:** 25 September 2026
 
 The current workbook contains approximately:
 
-- 79 specimen records
-- 59 taxon records
-- 44 locality records
-- 38 geological-unit records
+- 125 specimen records
+- 88 taxon records
+- 54 locality records
+- 44 geological-unit records
 - 7 repository records
-- 27 digital-asset records
+- 39 digital-asset records
+- 13 explicitly tracked unresolved questions
+- 12 publications
 
 Current sources include direct or cross-checked records from:
 
