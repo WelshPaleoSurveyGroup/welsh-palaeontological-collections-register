@@ -13,13 +13,13 @@ This repository is intended as a research infrastructure project rather than a c
 
 ## Current status
 
-**Release:** v0.4 — third pass working register
-**Date:** 25 September 2026
+**Release:** v0.5 — locality pass working register
+**Date:** 2 October 2026
 
 The current workbook contains approximately:
 
-- 125 specimen records
-- 88 taxon records
+- 166 specimen records
+- 90 taxon records
 - 54 locality records
 - 44 geological-unit records
 - 7 repository records
