@@ -36,6 +36,7 @@ Current sources include direct or cross-checked records from:
 - British Geological Survey
 - Grosvenor Museum
 - primary palaeontological literature
+- RCT geological Survey 2003-2004
 
 The register is **not yet exhaustive**. Major future targets include systematic locality-by-locality harvesting, broader non-type specimen coverage, Oxford and Cambridge collections, historical literature, and citation-chain searches.
 
