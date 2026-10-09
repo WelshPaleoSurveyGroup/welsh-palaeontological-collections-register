@@ -13,14 +13,14 @@ This repository is intended as a research infrastructure project rather than a c
 
 ## Current status
 
-**Release:** v0.5 — locality pass working register
-**Date:** 2 October 2026
+**Release:** v0.6 — cleanup of Quartenary and Zoo-archeological material from the register
+**Date:** 9 October 2026
 
 The current workbook contains approximately:
 
-- 166 specimen records
-- 90 taxon records
-- 54 locality records
+- 284 specimen records
+- 69 taxon records
+- 84 locality records
 - 44 geological-unit records
 - 7 repository records
 - 39 digital-asset records
