@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.6 - Clean Up pass - 2026-10-9
+- Expanded from 166 to 284 specimen records.
+- Focussed tract scope from 90 to 69
+- Removed Quaternary cave-fauna, hominin and archaeological-context material
+- Focussed the publication list by removing 1 publication (the Museum Wales Pleistocene and Palaeolithic source), 5 search queue rows, 2 unresolved questions (the “Merck’s rhinoceros” taxonomy question and the straight-tusked elephant syntype question), and 3 locality audit rows.
+  
 ## v0.5 - Locality pass - 2026-10-2
 - Expanded from 125 to 166 specimen records.
 - Expanded from 88 to 90 taxon records.
