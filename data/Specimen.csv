@@ -1,0 +1,955 @@
+﻿specimen_id,taxon_id,repository_id,catalogue_number,element,locality_id,geological_unit_id,collection_event_id,collector,collection_date,type_status,figured_status,identification_confidence,provenance_confidence,disposition_status,photograph_available,3d_available,primary_publication_id,source_url,notes
+WPR-SP-0001,WPR-TAX-0001,WPR-REP-0001,NMW 00.628.1,,WPR-LOC-0001,,,,,Holotype,Yes,A,B,Museum accessioned,Unknown,Unknown,,https://museum.wales/database/geology/palaeontology/,Museum Wales holotype database; Triassic Dolomitic Conglomerate; Newton Nottage/Porthcawl context is in cited literature but catalogue result exposes Glamorgan.
+WPR-SP-0002,WPR-TAX-0002,WPR-REP-0001,NMW 77.11G.46,,WPR-LOC-0002,WPR-GEO-0001,,,,Holotype,Yes,A,B,Museum accessioned,Unknown,Unknown,,https://museum.wales/database/geology/palaeontology/?specimen=10236,Direct Museum Wales holotype record.
+WPR-SP-0003,WPR-TAX-0003,WPR-REP-0001,NMW 27.177.G1,,WPR-LOC-0040,WPR-GEO-0002,,D. Davies,,Holotype,Yes,A,B,Museum accessioned,Yes,Unknown,,https://museum.wales/database/geology/palaeontology/?specimen=13,"Museum Wales holotype record; GB3D refines provenance to Clydach Vale, Tonypandy, Rhondda Fawr and lists collector D. Davies."
+WPR-SP-0004,WPR-TAX-0004,WPR-REP-0001,NMW 27.177.G14,,WPR-LOC-0001,WPR-GEO-0003,,,,Holotype,Yes,A,B,Museum accessioned,Unknown,Unknown,,https://museum.wales/database/geology/palaeontology/?specimen=15,Direct Museum Wales holotype record.
+WPR-SP-0005,WPR-TAX-0005,WPR-REP-0001,NMW 62.24.G107,,WPR-LOC-0003,,,,,Holotype,Yes,A,B,Museum accessioned,Unknown,Unknown,,https://museum.wales/database/geology/palaeontology/?specimen=29,"Silurian Llandovery; cited work discusses Aberystwyth Grits Formation, but no lithostratigraphy is asserted here from the catalogue page."
+WPR-SP-0006,WPR-TAX-0006,WPR-REP-0001,NMW 96.8G.181,,WPR-LOC-0004,WPR-GEO-0004,,,,Holotype,Yes,A,B,Museum accessioned,Unknown,Unknown,,https://museum.wales/database/geology/palaeontology/?specimen=142,Direct Museum Wales holotype record.
+WPR-SP-0007,WPR-TAX-0007,WPR-REP-0001,NMW 32.518.G1,,WPR-LOC-0041,WPR-GEO-0005,,W. O'Connor,,Holotype,Yes,A,B,Museum accessioned,Yes,Unknown,,https://museum.wales/database/geology/palaeontology/?specimen=26,"Museum Wales holotype record; GB3D refines provenance to Ty'n-y-bedw Colliery, Pentre, Rhondda and lists collector W. O'Connor."
+WPR-SP-0008,WPR-TAX-0008,WPR-REP-0001,NMW 84.11G.6.a&b,,WPR-LOC-0004,WPR-GEO-0006,,,,Holotype,Yes,A,B,Museum accessioned,Unknown,Unknown,,https://museum.wales/database/geology/palaeontology/?specimen=84,Direct Museum Wales holotype record.
+WPR-SP-0009,WPR-TAX-0009,WPR-REP-0001,NMW 87.44G.1 c,,WPR-LOC-0005,WPR-GEO-0007,,,,Holotype,Yes,A,B,Museum accessioned,Unknown,Unknown,,https://museum.wales/database/geology/palaeontology/?specimen=112,Direct Museum Wales holotype record.
+WPR-SP-0010,WPR-TAX-0010,WPR-REP-0001,NMW 27.110.G34,,WPR-LOC-0006,,,,,Holotype,Yes,A,B,Museum accessioned,Unknown,Unknown,,https://museum.wales/database/geology/palaeontology/?specimen=12,Ordovician Caradoc; precise locality should be recovered from type reference.
+WPR-SP-0011,WPR-TAX-0011,WPR-REP-0001,NMW 87.77G.778,,WPR-LOC-0007,WPR-GEO-0008,,,,Holotype,Yes,A,B,Museum accessioned,Unknown,Unknown,,https://museum.wales/database/geology/palaeontology/?specimen=113,Direct Museum Wales holotype record.
+WPR-SP-0012,WPR-TAX-0012,WPR-REP-0001,NMW 77.11G.19,,WPR-LOC-0008,WPR-GEO-0001,,,,Holotype,Yes,A,B,Museum accessioned,Unknown,Unknown,,https://museum.wales/database/geology/palaeontology/?specimen=57,Direct Museum Wales holotype record.
+WPR-SP-0013,WPR-TAX-0013,WPR-REP-0001,NMW 78.17G.1174,,WPR-LOC-0004,WPR-GEO-0009,,,,Holotype,Yes,A,B,Museum accessioned,Unknown,Unknown,,https://museum.wales/database/geology/palaeontology/?specimen=74,Direct Museum Wales holotype record.
+WPR-SP-0014,WPR-TAX-0014,WPR-REP-0001,NMW 29.197.G3,,WPR-LOC-0004,,,,,Holotype,Unknown,A,B,Museum accessioned,Unknown,Unknown,,https://museum.wales/database/geology/palaeontology/?specimen=22,Roof of thin seam above Hwch Vein; create a dedicated geological-unit record if this seam-level information becomes a recurring unit.
+WPR-SP-0015,WPR-TAX-0015,WPR-REP-0001,NMW 29.197.G2,,WPR-LOC-0004,WPR-GEO-0010,,,,Holotype,Yes,A,B,Museum accessioned,Unknown,Unknown,,https://museum.wales/database/geology/palaeontology/?specimen=21,Direct Museum Wales holotype record.
+WPR-SP-0016,WPR-TAX-0016,WPR-REP-0001,NMW 78.8G.1,,WPR-LOC-0004,WPR-GEO-0009,,,,Holotype,Yes,A,B,Museum accessioned,Unknown,Unknown,,https://museum.wales/database/geology/palaeontology/?specimen=77,Direct Museum Wales holotype record.
+WPR-SP-0017,WPR-TAX-0017,WPR-REP-0001,NMW 21.306.G4 a&b,,WPR-LOC-0004,WPR-GEO-0006,,,,Holotype,Yes,A,B,Museum accessioned,Unknown,Unknown,,https://museum.wales/database/geology/palaeontology/?specimen=7,Direct Museum Wales holotype record.
+WPR-SP-0018,WPR-TAX-0018,WPR-REP-0001,NMW 2015.5G.1–2015.5G.11,associated partial skeleton: skull and postcranial elements,WPR-LOC-0012,WPR-GEO-0014,,Nick Hanigan; Rob Hanigan,2014-03-01,Holotype,Yes,A,A,Museum accessioned,Yes,Unknown,WPR-PUB-0001,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0145713,Recovered from fallen blocks; paper constrains source to bed 7 or 9 of Bull Cliff Member.
+WPR-SP-0019,WPR-TAX-0019,WPR-REP-0002,PV R 37591,"articulated vertebral series, pelvic girdle and associated femur",WPR-LOC-0009,WPR-GEO-0011,,,,Holotype,Yes,A,A,Museum accessioned,Yes,Unknown,WPR-PUB-0002,https://pmc.ncbi.nlm.nih.gov/articles/PMC8493203/,Primary description gives field numbers P77/1 and P76/1.
+WPR-SP-0020,WPR-TAX-0019,WPR-REP-0002,PV R 37596,complete middle-to-posterior dorsal vertebra,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Yes,Unknown,WPR-PUB-0002,https://pmc.ncbi.nlm.nih.gov/articles/PMC8493203/,"Referred specimen, field number P83/1."
+WPR-SP-0021,WPR-TAX-0019,WPR-REP-0002,PV R 37597,proximal end of left ischium,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Yes,Unknown,WPR-PUB-0002,https://pmc.ncbi.nlm.nih.gov/articles/PMC8493203/,"Referred specimen, field number P65/66b. Counterpart P65/66a is reported as absent from NHMUK."
+WPR-SP-0022,WPR-TAX-0020,WPR-REP-0002,PV R 37423,left humerus proximal end,WPR-LOC-0009,WPR-GEO-0011,,,,Paratype,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0003,https://data.nhm.ac.uk/dataset/collection-specimens/resource/05ff2255-c38a-40c9-b657-4ccb55ab2feb/record/9063995,Direct NHMUK record; Rhaetian fissure-fill specimen.
+WPR-SP-0023,WPR-TAX-0021,WPR-REP-0002,PV R 7557d,"Right astragalus, calcaneum, and dt 4",WPR-LOC-0009,WPR-GEO-0011,,Professor K. Kermack; Dr P. Robinson,1952-06-27,Holotype,Unknown,A,A,Museum accessioned,Unknown,Yes,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 19; field number 47/21a). Prior register note: Holotype component PV R 7557d; right astragalus, calcaneum and distal tarsal 4. Part of multi-piece holotype PV R 7557a–h."
+WPR-SP-0024,WPR-TAX-0022,WPR-REP-0002,PV RUT 871,premaxilla,WPR-LOC-0015,WPR-GEO-0012,,Professor Kenneth A. Kermack,1955-01-01,Non-type,Unknown,A,A,Museum accessioned,Unknown,Unknown,,https://data.nhm.ac.uk/dataset/collection-specimens/resource/05ff2255-c38a-40c9-b657-4ccb55ab2feb/record/2169657,"Direct NHMUK record: non-type Gephyrosaurus bridensis premaxilla; Pant Quarry, Hettangian–Sinemurian fissure fill."
+WPR-SP-0025,WPR-TAX-0022,WPR-REP-0002,PV RUT 3164,quadrate,WPR-LOC-0015,WPR-GEO-0012,,,,Non-type,Unknown,A,A,Museum accessioned,Unknown,Unknown,,https://data.nhm.ac.uk/dataset/collection-specimens/resource/05ff2255-c38a-40c9-b657-4ccb55ab2feb/record/9631007/1787475689135,"Direct NHMUK record: non-type Gephyrosaurus bridensis quadrate; Pant Quarry, Hettangian–Sinemurian fissure fill."
+WPR-SP-0026,WPR-TAX-0023,WPR-REP-0002,PV M 116443,dentulous maxilla fragment with two molars,WPR-LOC-0010,WPR-GEO-0012,,,,Non-type,Unknown,A,A,Museum accessioned,Unknown,Unknown,,https://data.nhm.ac.uk/dataset/collection-specimens/resource/05ff2255-c38a-40c9-b657-4ccb55ab2feb/record/10668072/1748251284062,NHMUK determination explicitly lists Morganucodon watsoni.
+WPR-SP-0027,WPR-TAX-0027,WPR-REP-0002,PV M 94404,,WPR-LOC-0010,WPR-GEO-0012,,,,Non-type,Unknown,A,A,Museum accessioned,Unknown,Unknown,,https://data.nhm.ac.uk/dataset/collection-specimens/resource/05ff2255-c38a-40c9-b657-4ccb55ab2feb/record/2943623,Record identified to genus Morganucodon.
+WPR-SP-0028,WPR-TAX-0027,WPR-REP-0002,PV M 94488,,WPR-LOC-0010,WPR-GEO-0012,,,,Non-type,Unknown,A,A,Museum accessioned,Unknown,Unknown,,https://data.nhm.ac.uk/dataset/collection-specimens/resource/05ff2255-c38a-40c9-b657-4ccb55ab2feb/record/2943707,Record identified to genus Morganucodon.
+WPR-SP-0029,WPR-TAX-0027,WPR-REP-0002,PV M 23889,,WPR-LOC-0010,WPR-GEO-0012,,,,Non-type,Unknown,A,A,Museum accessioned,Unknown,Unknown,,https://data.nhm.ac.uk/dataset/collection-specimens/resource/05ff2255-c38a-40c9-b657-4ccb55ab2feb/record/569168/1787475689135,Record identified to genus Morganucodon.
+WPR-SP-0030,WPR-TAX-0027,WPR-REP-0002,PV M 23695,,WPR-LOC-0010,WPR-GEO-0012,,,,Non-type,Unknown,A,A,Museum accessioned,Unknown,Unknown,,https://data.nhm.ac.uk/dataset/collection-specimens/resource/05ff2255-c38a-40c9-b657-4ccb55ab2feb/record/568974/1771927275455,Record identified to genus Morganucodon.
+WPR-SP-0031,WPR-TAX-0027,WPR-REP-0002,PV M 24577,,WPR-LOC-0010,WPR-GEO-0012,,,,Non-type,Unknown,A,A,Museum accessioned,Unknown,Unknown,,https://data.nhm.ac.uk/dataset/collection-specimens/resource/05ff2255-c38a-40c9-b657-4ccb55ab2feb/record/570077/1787821283754,Record identified to genus Morganucodon.
+WPR-SP-0032,WPR-TAX-0027,WPR-REP-0002,PV M 93173,,WPR-LOC-0010,WPR-GEO-0012,,,,Non-type,Unknown,A,A,Museum accessioned,Unknown,Unknown,,https://data.nhm.ac.uk/dataset/collection-specimens/resource/05ff2255-c38a-40c9-b657-4ccb55ab2feb/record/2933375,Record identified to genus Morganucodon.
+WPR-SP-0033,WPR-TAX-0024,WPR-REP-0002,PB V 26517 b,axes,WPR-LOC-0011,WPR-GEO-0013,,W. N. Croft,,Syntype,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0004,https://data.nhm.ac.uk/dataset/collection-specimens/resource/05ff2255-c38a-40c9-b657-4ccb55ab2feb/record/2156242/1787130104391,Direct NHMUK syntype record.
+WPR-SP-0037,WPR-TAX-0028,WPR-REP-0001,NMW 69.64.G32 a+b,,WPR-LOC-0004,WPR-GEO-0015,,,,Holotype,Yes,A,B,Museum accessioned,Yes,Unknown,,https://museum.wales/database/geology/palaeontology/?specimen=30,"Museum Wales holotype; Long Quarry Beds, Přídolí."
+WPR-SP-0038,WPR-TAX-0029,WPR-REP-0001,NMW 96.8G.109,,WPR-LOC-0004,WPR-GEO-0004,,,,Holotype,Yes,A,B,Museum accessioned,Yes,Unknown,,https://museum.wales/database/geology/palaeontology/?specimen=141,Museum Wales holotype; Golden Grove Group.
+WPR-SP-0039,WPR-TAX-0030,WPR-REP-0001,NMW 78.17G.161,,WPR-LOC-0004,WPR-GEO-0009,,,,Holotype,Yes,A,B,Museum accessioned,Yes,Unknown,,https://museum.wales/database/geology/palaeontology/?specimen=71,"Museum Wales holotype; Ogof Hên Formation, Bolahaul Member."
+WPR-SP-0040,WPR-TAX-0031,WPR-REP-0001,NMW 82.7G.1,,WPR-LOC-0001,WPR-GEO-0016,,,,Holotype,Yes,A,B,Museum accessioned,Yes,Unknown,,https://museum.wales/database/geology/palaeontology/?specimen=80,Museum Wales holotype; Rhaetian Penarth Group.
+WPR-SP-0041,WPR-TAX-0032,WPR-REP-0001,NMW 84.16G.17,,WPR-LOC-0042,WPR-GEO-0017,,,,Holotype,Yes,A,B,Museum accessioned,Yes,Unknown,,https://museum.wales/database/geology/palaeontology/?specimen=10238,Museum Wales holotype; Radnorshire.
+WPR-SP-0042,WPR-TAX-0033,WPR-REP-0001,NMW 79.35G.1,,WPR-LOC-0042,,,,,Holotype,Yes,A,B,Museum accessioned,Yes,Unknown,,https://museum.wales/database/geology/palaeontology/?specimen=79,"Museum Wales holotype; Llandeilo Series, Teretiusculus biozone."
+WPR-SP-0043,WPR-TAX-0034,WPR-REP-0001,NMW 88.9G.1.1 a,,WPR-LOC-0004,WPR-GEO-0018,,,,Holotype,Yes,A,B,Museum accessioned,Yes,Unknown,,https://museum.wales/database/geology/palaeontology/?specimen=118,Museum Wales holotype; Lower Devonian Senni Beds Formation.
+WPR-SP-0044,WPR-TAX-0035,WPR-REP-0001,NMW 77.6G.2,,WPR-LOC-0005,WPR-GEO-0019,,,,Holotype,Yes,A,B,Museum accessioned,Yes,Unknown,,https://museum.wales/database/geology/palaeontology/?specimen=68,Museum Wales holotype; Milford Haven Group.
+WPR-SP-0045,WPR-TAX-0036,WPR-REP-0001,NMW 77.6G.34,,WPR-LOC-0005,WPR-GEO-0019,,,,Holotype,Yes,A,B,Museum accessioned,Yes,Unknown,,https://museum.wales/database/geology/palaeontology/?count=2&position=0&specimen=69&value=Cooksonia+cambrensis,Museum Wales holotype. Published registration was misquoted as 77.6G.33 in Edwards (1979).
+WPR-SP-0046,WPR-TAX-0037,WPR-REP-0001,NMW 00.17G.2,,WPR-LOC-0043,WPR-GEO-0021,,C. Conolly,,Paratype,Yes,A,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=10000146,GB3D paratype; Mydrim Shale Formation.
+WPR-SP-0047,WPR-TAX-0038,WPR-REP-0001,NMW 90.44G.4,,WPR-LOC-0018,WPR-GEO-0020,,T.P. Crimes,,Paratype,Yes,A,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=10000225,GB3D paratype; Aberystwyth Grits Formation.
+WPR-SP-0048,WPR-TAX-0039,WPR-REP-0001,NMW 76.3G.9,,WPR-LOC-0019,WPR-GEO-0009,,,,Paratype,Yes,A,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=10000178,"GB3D paratype; Bolahaul Member, Ogof Hên Formation."
+WPR-SP-0049,WPR-TAX-0040,WPR-REP-0001,NMW 33.189.G102,,WPR-LOC-0020,WPR-GEO-0006,,D.C. Evans,,Paratype,Yes,A,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=10001050,GB3D paratype; Pontyfenni Formation.
+WPR-SP-0050,WPR-TAX-0041,WPR-REP-0001,NMW 96.8G.953,,WPR-LOC-0021,WPR-GEO-0023,,M.D. Sutton,,Paratype,Yes,A,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=10001233,GB3D paratype; Llanfawr Mudstone Formation.
+WPR-SP-0051,WPR-TAX-0042,WPR-REP-0001,NMW 72.6G.4,,WPR-LOC-0022,WPR-GEO-0024,,,,Paratype,Yes,A,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=10001122,"GB3D paratype; Glyn Member, Trewern Brook Mudstone Formation."
+WPR-SP-0052,WPR-TAX-0043,WPR-REP-0001,NMW 84.17G.22,,WPR-LOC-0023,WPR-GEO-0025,,R.A. Fortey,,Paratype,Yes,A,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=10000514,GB3D paratype; Llanfallteg Formation.
+WPR-SP-0053,WPR-TAX-0044,WPR-REP-0001,NMW 84.11G.14,,WPR-LOC-0020,WPR-GEO-0006,,J.C.W. Cope,,Paratype,Yes,A,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=10000457,GB3D paratype; Pontyfenni Formation.
+WPR-SP-0054,WPR-TAX-0016,WPR-REP-0001,NMW 78.8G.30,,WPR-LOC-0044,WPR-GEO-0009,,,,Paratype,Yes,A,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=10001116,GB3D paratype of Blastoidocrinus antecedens.
+WPR-SP-0055,WPR-TAX-0036,WPR-REP-0001,NMW 77.6G.10,,WPR-LOC-0017,WPR-GEO-0019,,,,Paratype,Yes,A,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=10001094,GB3D paratype of Cooksonia cambrensis.
+WPR-SP-0056,WPR-TAX-0036,WPR-REP-0001,NMW 77.6G.13,,WPR-LOC-0017,WPR-GEO-0019,,,,Paratype,Yes,A,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=10000618,GB3D currently files the specimen as Cooksonia cambrensis; name history also references Tortilicaulis transwalliensis.
+WPR-SP-0057,WPR-TAX-0035,WPR-REP-0001,NMW 77.6G.1,,WPR-LOC-0017,WPR-GEO-0019,,,,Paratype,Yes,A,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=10000615,GB3D paratype of Tortilicaulis transwalliensis.
+WPR-SP-0058,WPR-TAX-0045,WPR-REP-0005,SM A 44425,,WPR-LOC-0024,WPR-GEO-0028,,A. Sedgwick; J.W. Salter,1843,Holotype,Yes,A,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=20001999,GB3D Sedgwick Museum holotype.
+WPR-SP-0059,WPR-TAX-0046,WPR-REP-0005,SM A 4695,part and counterpart,WPR-LOC-0025,WPR-GEO-0026,,J. Hopkinson,,Holotype,Yes,A,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=20000359,GB3D Sedgwick Museum holotype.
+WPR-SP-0060,WPR-TAX-0047,WPR-REP-0005,SM A 40229,,WPR-LOC-0026,WPR-GEO-0027,,,,Holotype,Yes,A,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=20001829,GB3D Sedgwick Museum holotype.
+WPR-SP-0061,WPR-TAX-0048,WPR-REP-0005,SM A 46897,,WPR-LOC-0027,WPR-GEO-0029,,,,Holotype,Yes,A,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=20002314,GB3D Sedgwick Museum holotype.
+WPR-SP-0062,WPR-TAX-0049,WPR-REP-0005,SM A 1051,,WPR-LOC-0028,WPR-GEO-0030,,,,Holotype,Yes,A,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=20000154,GB3D Sedgwick Museum holotype.
+WPR-SP-0063,WPR-TAX-0050,WPR-REP-0005,SM A 25011,,WPR-LOC-0029,WPR-GEO-0028,,W.G. Fearnsides; T.O. Morris,,Holotype,Yes,A,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=20001254,GB3D Sedgwick Museum holotype.
+WPR-SP-0064,WPR-TAX-0051,WPR-REP-0005,SM A 37755,,WPR-LOC-0030,WPR-GEO-0031,,,,Holotype,Yes,A,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=20001882,GB3D Sedgwick Museum holotype.
+WPR-SP-0065,WPR-TAX-0052,WPR-REP-0005,SM A 15035 a-e,,WPR-LOC-0031,WPR-GEO-0032,,,,Holotype,Yes,B,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=20001019,GB3D Sedgwick Museum holotype; nomenclatural status should be checked.
+WPR-SP-0066,WPR-TAX-0053,WPR-REP-0005,SM A 51439,,WPR-LOC-0032,WPR-GEO-0033,,,,Holotype,Yes,B,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=20002150,GB3D Sedgwick Museum holotype; current taxonomic rank should be checked.
+WPR-SP-0067,WPR-TAX-0054,WPR-REP-0006,BGS GSM48528Cprt,,WPR-LOC-0033,WPR-GEO-0034,,British Geological Survey,1902,Holotype,Yes,A,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=117893,"GB3D BGS holotype; roof of Mynyddislwyn Seam, Tenuis Zone."
+WPR-SP-0068,WPR-TAX-0055,WPR-REP-0006,BGS GSM48523Cprt,,WPR-LOC-0034,WPR-GEO-0034,,British Geological Survey,1902,Holotype,Yes,A,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=117889,GB3D lists this as holotype of Euproops gwenti.
+WPR-SP-0069,WPR-TAX-0055,WPR-REP-0006,BGS GSM48524Cprt,,WPR-LOC-0034,WPR-GEO-0034,,British Geological Survey,1902,Holotype,Yes,A,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=117890,GB3D also lists this as holotype of Euproops gwenti; verify type-series relationship.
+WPR-SP-0070,WPR-TAX-0056,WPR-REP-0006,BGS GSM49398,,WPR-LOC-0035,WPR-GEO-0035,,survey,1909,Holotype,Yes,A,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=60252,GB3D BGS holotype; Carboniferous Limestone Supergroup.
+WPR-SP-0071,WPR-TAX-0057,WPR-REP-0007,CHEGM 1977.22AH (A),,WPR-LOC-0036,WPR-GEO-0036,,J.B. Shone,,Holotype,Yes,B,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=25000109,GB3D Grosvenor Museum holotype; accepted taxonomy/authorship needs checking.
+WPR-SP-0072,WPR-TAX-0058,WPR-REP-0002,PI BC 61751,hand specimen,WPR-LOC-0017,WPR-GEO-0022,,,,Non-type,Unknown,A,A,Museum accessioned,Unknown,Unknown,,https://data.nhm.ac.uk/dataset/collection-specimens/resource/05ff2255-c38a-40c9-b657-4ccb55ab2feb/record/3098401,NHMUK Stegerhynchus record; Silurian Sandstone Series.
+WPR-SP-0073,WPR-TAX-0059,WPR-REP-0002,PI It 26527 a,,WPR-LOC-0037,WPR-GEO-0037,,R. Bettley,,Non-type,Unknown,A,A,Museum accessioned,Unknown,Unknown,,https://data.nhm.ac.uk/dataset/collection-specimens/resource/05ff2255-c38a-40c9-b657-4ccb55ab2feb/record/2046432,NHMUK Marrolithus inflatus; Middle Ordovician Flags.
+WPR-SP-0074,WPR-TAX-0027,WPR-REP-0002,PV M 95050,,WPR-LOC-0038,WPR-GEO-0038,,,,Non-type,Unknown,A,A,Museum accessioned,Unknown,Unknown,,https://data.nhm.ac.uk/dataset/collection-specimens/resource/05ff2255-c38a-40c9-b657-4ccb55ab2feb/record/2944269,NHMUK Morganucodon from Pontalun 2 fissure.
+WPR-SP-0075,WPR-TAX-0027,WPR-REP-0002,PV M 27234,,WPR-LOC-0038,WPR-GEO-0038,,Kenneth A. Kermack,1957-01-01,Non-type,Unknown,A,A,Museum accessioned,Unknown,Unknown,,https://data.nhm.ac.uk/dataset/collection-specimens/resource/05ff2255-c38a-40c9-b657-4ccb55ab2feb/record/2813733,NHMUK Morganucodon from Pontalun 2 fissure.
+WPR-SP-0076,WPR-TAX-0027,WPR-REP-0002,PV M 95815,,WPR-LOC-0039,WPR-GEO-0038,,,,Non-type,Unknown,A,A,Museum accessioned,Unknown,Unknown,,https://data.nhm.ac.uk/dataset/collection-specimens/resource/05ff2255-c38a-40c9-b657-4ccb55ab2feb/record/2945034,NHMUK Morganucodon from Pontalun 3 fissure.
+WPR-SP-0077,WPR-TAX-0027,WPR-REP-0002,PV M 100043,,WPR-LOC-0039,WPR-GEO-0038,,,,Non-type,Unknown,A,A,Museum accessioned,Unknown,Unknown,,https://data.nhm.ac.uk/dataset/collection-specimens/resource/05ff2255-c38a-40c9-b657-4ccb55ab2feb/record/6722762,NHMUK Morganucodon from Pontalun 3 fissure.
+WPR-SP-0078,WPR-TAX-0023,WPR-REP-0002,PV M 96265,,WPR-LOC-0039,WPR-GEO-0038,,,,Non-type,Unknown,A,A,Museum accessioned,Unknown,Unknown,,https://data.nhm.ac.uk/dataset/collection-specimens/resource/05ff2255-c38a-40c9-b657-4ccb55ab2feb/record/3071376/1787821283754,NHMUK record explicitly determined as Morganucodon watsoni.
+WPR-SP-0079,WPR-TAX-0023,WPR-REP-0002,PV M 24590,dentary,WPR-LOC-0038,WPR-GEO-0038,,Kenneth A. Kermack,1957-12-01,Non-type,Unknown,A,A,Museum accessioned,Yes,Unknown,,https://data.nhm.ac.uk/object/07d0d854-9e15-44d6-bb76-77ebb33b8180,NHMUK Morganucodon watsoni; Hettangian–Sinemurian fissure-fill record with IIIF images.
+WPR-SP-0113,WPR-TAX-0027,WPR-REP-0002,PV M 23447,canine,WPR-LOC-0010,WPR-GEO-0012,,Professor Kenneth A. Kermack,1955-01-01,Non-type,Unknown,A,A,Museum accessioned,Unknown,Unknown,,https://data.nhm.ac.uk/dataset/collection-specimens/resource/05ff2255-c38a-40c9-b657-4ccb55ab2feb/record/568726,NHMUK Morganucodon from Pant Quarry 2; catalogue description: canine.
+WPR-SP-0114,WPR-TAX-0077,WPR-REP-0002,PV M 26368,postcranial bone,WPR-LOC-0039,WPR-GEO-0038,,,,Non-type,Unknown,A,A,Museum accessioned,Yes,Unknown,,https://data.nhm.ac.uk/dataset/collection-specimens/resource/05ff2255-c38a-40c9-b657-4ccb55ab2feb/record/4376762,NHMUK currently determines this Pontalun 3 specimen as Eozostrodon parvus; earlier determination history includes Morganucodon.
+WPR-SP-0115,WPR-TAX-0078,WPR-REP-0002,PV RUP24,"associated partial juvenile skeleton including skull, cervical series and pectoral elements",WPR-LOC-0009,WPR-GEO-0011,,,,Holotype,Yes,A,A,Museum accessioned,Unknown,Yes,,https://pmc.ncbi.nlm.nih.gov/articles/PMC12881877/,Pantydraco caducus holotype from Pant-y-ffynnon; current literature uses NHMUK PV RUP24.
+WPR-SP-0116,WPR-TAX-0079,WPR-REP-0002,PV R 37014,near-complete disarticulated skull and cervical vertebrae,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Yes,Yes,WPR-PUB-0009,https://www.app.pan.pl/archive/published/app64/app005692018.html,CT-reconstructed Clevosaurus cambrica specimen; near-complete skull with at least five cervical vertebrae. This row absorbs duplicate former record WPR-SP-0139; WPR-SP-0139 is retired and must not be reused.
+WPR-SP-0117,WPR-TAX-0080,WPR-REP-0005,SM A 1050,,WPR-LOC-0028,WPR-GEO-0030,,,,Lectotype,Yes,A,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=20000153,"GB3D Sedgwick lectotype from Porthyrhaw, St Davids."
+WPR-SP-0118,WPR-TAX-0081,WPR-REP-0005,SM A 40563,,WPR-LOC-0047,WPR-GEO-0039,,,,Syntype,Yes,A,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=20001929,GB3D Sedgwick syntype from Bala.
+WPR-SP-0119,WPR-TAX-0082,WPR-REP-0005,SM A 20938,,WPR-LOC-0048,WPR-GEO-0040,,W.G. Fearnsides,,Paratype,Yes,B,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=20001344,GB3D Sedgwick paratype; historical varietal name retained.
+WPR-SP-0120,WPR-TAX-0083,WPR-REP-0005,SM A 14980,part and counterpart,WPR-LOC-0049,,,,,Syntype,Yes,A,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=20001006,GB3D Sedgwick syntype from Upper Slade.
+WPR-SP-0121,WPR-TAX-0084,WPR-REP-0005,SM A 21887,,WPR-LOC-0050,WPR-GEO-0041,,,,Syntype,Yes,B,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=20001415,GB3D Sedgwick syntype; historical varietal name retained.
+WPR-SP-0122,WPR-TAX-0085,WPR-REP-0005,SM A 42696,,WPR-LOC-0051,WPR-GEO-0039,,,,Lectotype,Yes,A,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=20002023,GB3D Sedgwick lectotype from Pont y Glyn.
+WPR-SP-0123,WPR-TAX-0086,WPR-REP-0005,SM A 19207,part and counterpart,WPR-LOC-0052,WPR-GEO-0042,,Henry Hicks,,Holotype,Yes,A,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=20001284,GB3D Sedgwick holotype from Abereiddy Bay.
+WPR-SP-0124,WPR-TAX-0087,WPR-REP-0005,SM A 50668,part and counterpart,WPR-LOC-0053,WPR-GEO-0043,,,,Holotype,Yes,A,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=20002136,GB3D Sedgwick holotype from basal Sholeshook Limestone.
+WPR-SP-0125,WPR-TAX-0088,WPR-REP-0005,SM A 44493,part and counterpart,WPR-LOC-0054,WPR-GEO-0044,,,,Holotype,Yes,A,A,Museum accessioned,Yes,Unknown,,https://www.3d-fossils.ac.uk/fossilType.cfm?typSampleId=20002005,"GB3D Sedgwick holotype from Long Plantation Railway Cutting, Scolton."
+WPR-SP-0135,WPR-TAX-0079,WPR-REP-0002,PV R 37016,left maxilla,WPR-LOC-0009,WPR-GEO-0011,,,,Holotype,Yes,A,A,Museum accessioned,Yes,Unknown,WPR-PUB-0008,https://bpb-eu-w2.wpmucdn.com/blogs.bristol.ac.uk/dist/5/537/files/2021/01/2018Keeble.pdf,Holotype left maxilla of Clevosaurus cambrica; largest flanged tooth in mid-region.
+WPR-SP-0136,WPR-TAX-0079,WPR-REP-0002,PV R 37042,right maxilla,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Yes,Unknown,WPR-PUB-0008,https://bpb-eu-w2.wpmucdn.com/blogs.bristol.ac.uk/dist/5/537/files/2021/01/2018Keeble.pdf,Referred right maxilla from Pant-y-ffynnon.
+WPR-SP-0137,WPR-TAX-0079,WPR-REP-0002,PV R 37015,left dentary,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Yes,Unknown,WPR-PUB-0008,https://bpb-eu-w2.wpmucdn.com/blogs.bristol.ac.uk/dist/5/537/files/2021/01/2018Keeble.pdf,Clevosaurus cambrica dentary preserved on the Terrestrisuchus slab PV R 7571 but assigned its own catalogue number.
+WPR-SP-0138,WPR-TAX-0079,WPR-REP-0002,PV R 37013,"left forelimb, shoulder elements and dorsal vertebrae",WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Yes,Yes,WPR-PUB-0009,https://www.app.pan.pl/archive/published/app64/app005692018.html,"CT-reconstructed specimen; includes humerus, radius, ulna, paired scapulae/coracoids and partial vertebral column."
+WPR-SP-0140,WPR-TAX-0021,WPR-REP-0002,PV R 7557a,Associated skeleton including skull bones,WPR-LOC-0009,WPR-GEO-0011,,Professor K. Kermack; Dr P. Robinson,,Holotype,Yes,A,A,Museum accessioned,Yes,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 16; field number 47/21). Prior register note: Part of multi-piece holotype PV R 7557a–h.
+WPR-SP-0141,WPR-TAX-0021,WPR-REP-0002,PV R 7557b,Skeleton including skull bones,WPR-LOC-0009,WPR-GEO-0011,,Professor K. Kermack; Dr P. Robinson,,Holotype,Yes,A,A,Museum accessioned,Yes,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 17; field number 47/22). Prior register note: Counterslab to PV R 7557a.
+WPR-SP-0142,WPR-TAX-0021,WPR-REP-0002,PV R 7557c,Left maxilla,WPR-LOC-0009,WPR-GEO-0011,,Professor K. Kermack; Dr P. Robinson,,Holotype,Yes,A,A,Museum accessioned,Yes,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 18; field number 144/1). Prior register note: Separate holotype component figured in the 2023 revision.
+WPR-SP-0143,WPR-TAX-0021,WPR-REP-0002,PV R 7557e,Left scapula,WPR-LOC-0009,WPR-GEO-0011,,Professor K. Kermack; Dr P. Robinson,,Holotype,Yes,A,A,Museum accessioned,Yes,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 20; field number 47/21b). Prior register note: Separate holotype component.
+WPR-SP-0144,WPR-TAX-0021,WPR-REP-0002,PV R 7557f,Left pubis and gastralia,WPR-LOC-0009,WPR-GEO-0011,,Professor K. Kermack; Dr P. Robinson,,Holotype,Yes,A,A,Museum accessioned,Yes,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 21; field number 47/21c). Prior register note: Separate holotype component.
+WPR-SP-0145,WPR-TAX-0021,WPR-REP-0002,PV R 7557g,Axis,WPR-LOC-0009,WPR-GEO-0011,,Professor K. Kermack; Dr P. Robinson,,Holotype,Yes,A,A,Museum accessioned,Yes,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 22; field number 47/22a). Prior register note: Separate holotype component.
+WPR-SP-0146,WPR-TAX-0021,WPR-REP-0002,PV R 7557h,Distal end of humerus,WPR-LOC-0009,WPR-GEO-0011,,Professor K. Kermack; Dr P. Robinson,,Holotype,Yes,A,A,Museum accessioned,Yes,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 23; field number 47/22i). Prior register note: Separate holotype component.
+WPR-SP-0147,WPR-TAX-0021,WPR-REP-0002,PV R 7553,"Partial skeleton, including articulated dorsal vertebrae, complete scapula and both coracoids, long bones, and some disarticulated skull bones, including a complete squamosal and prootic(?)",WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Yes,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 29; field number 50/1). Prior register note: Table S1 field no. 50/1. Consolidates the earlier artificial split WPR-SP-0147/WPR-SP-0148; WPR-SP-0148 is retired and must not be reused.
+WPR-SP-0149,WPR-TAX-0021,WPR-REP-0002,PV R 7561a,"Disarticulated skeleton, including a femur, partial humerus, ischium, vertebrae, and skull bones",WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Yes,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 5; field number 71/1a). Prior register note: Associated specimen block.
+WPR-SP-0150,WPR-TAX-0021,WPR-REP-0002,PV R 7561b,"Disarticulated skeleton, including a maxilla, pterygoid, dentary, ilium, two right pubes of different size, vertebrae, ulnae, tibia",WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Yes,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 6; field number 71/1b). Prior register note: Associated specimen block.
+WPR-SP-0151,WPR-TAX-0021,WPR-REP-0002,PV R 7561c,Right ilium,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Yes,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 203; field number 149/1). Prior register note: Right ilium figured in the 2023 revision.
+WPR-SP-0152,WPR-TAX-0021,WPR-REP-0002,PV R 7562,"Postcranial skeleton in various blocks (unnumbered currently), containing a complete left hemipelvis, partial vertebral column, largely complete and articulated manus, femora, and parts of a pes",WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Yes,Yes,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 28; field number 72/1). Prior register note: Extensive articulated postcranial specimen; also used in μCT-based vertebral studies.
+WPR-SP-0153,WPR-TAX-0021,WPR-REP-0002,PV R 7571,"Postcranial skeleton, including girdles, long bones, and vertebrae",WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Yes,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 10; field number 31/1). Prior register note: Includes scapula, coracoid, radius, ulna and vertebral material; Clevosaurus dentary is separately catalogued as PV R 37015."
+WPR-SP-0154,WPR-TAX-0021,WPR-REP-0002,PV R 7591a,Articulated skull/posterior half,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Yes,Yes,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 7; field number 78/1a). Prior register note: Table S1 field no. 78/1a. Earlier unsuffixed PV R 7591 entry corrected to the catalogue-level subrecord PV R 7591a.
+WPR-SP-0155,WPR-TAX-0021,WPR-REP-0002,PV R 7593a,Disarticulated cranial and postcranial bones,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Yes,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 25; field number 79/1a). Prior register note: Major associated block including cranial, cervical and appendicular remains."
+WPR-SP-0156,WPR-TAX-0021,WPR-REP-0002,PV R 7593b,Disarticulated cranial and postcranial bones,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Yes,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 26; field number 79/1b). Prior register note: Associated block.
+WPR-SP-0157,WPR-TAX-0021,WPR-REP-0002,PV R 7593c,Disarticulated cranial and postcranial bones,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Yes,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 27; field number 79/1c). Prior register note: Associated block.
+WPR-SP-0158,WPR-TAX-0021,WPR-REP-0002,PV R 7593d,proximal end of left humerus,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,B,A,Museum accessioned,Yes,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Separate referred element. This accession is cited in the main-text literature but is not listed as a separate entry in the claimed complete Spiekman et al. (2023) Table S1 hypodigm. Retained pending NHMUK/source reconciliation.
+WPR-SP-0159,WPR-TAX-0021,WPR-REP-0002,PV R 7593e,paired osteoderms,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,B,A,Museum accessioned,Yes,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Paired osteoderms figured in the 2023 revision. This accession is cited in the main-text literature but is not listed as a separate entry in the claimed complete Spiekman et al. (2023) Table S1 hypodigm. Retained pending NHMUK/source reconciliation.
+WPR-SP-0160,WPR-TAX-0021,WPR-REP-0002,PV R 37600a,Right femur,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Yes,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 11; field number 24/39a). Prior register note: Associated block in the PV R 37600 specimen group.
+WPR-SP-0161,WPR-TAX-0021,WPR-REP-0002,PV R 37600b,Virtually complete left hind limb,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Yes,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 12; field number 24/39b). Prior register note: Associated block in the PV R 37600 specimen group.
+WPR-SP-0162,WPR-TAX-0021,WPR-REP-0002,PV R 37600c,Left astragalus,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Yes,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 13; field number 24/39c). Prior register note: Isolated left astragalus.
+WPR-SP-0163,WPR-TAX-0021,WPR-REP-0002,PV R 37600d,"A few isolated carpal elements, phalanges, vertebrae, and other fragments, possibly including distal ends of radius and ulna",WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Yes,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 14; field number 24/39d). Prior register note: Associated block in the PV R 37600 specimen group.
+WPR-SP-0164,WPR-TAX-0021,WPR-REP-0002,PV R 37600e,"Sacral region, largely complete left ilium",WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Yes,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 15; field number 24/39e). Prior register note: Associated block in the PV R 37600 specimen group.
+WPR-SP-0165,WPR-TAX-0021,WPR-REP-0002,PV R 37788,Right ilium,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Yes,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 183; field number 109/1). Prior register note: Right ilium figured with associated Terrestrisuchus material.
+WPR-SP-0166,WPR-TAX-0021,WPR-REP-0002,PV R 37726,Interclavicle and rib fragments,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 133; field number 61/5abc). Prior register note: Interclavicle discussed in the 2024 postcranial revision.
+WPR-SP-0167,WPR-TAX-0021,WPR-REP-0002,PV R 7572b,Left maxilla,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 83; field number 34/1a). Prior register note: Fig. 14C–D; explicitly figured left maxilla.
+WPR-SP-0168,WPR-TAX-0021,WPR-REP-0002,PV R 38290a,"Slab and counterslab preserved a maxilla bearing some teeth, a frontal, parietal, dentary, splenial, and a pes",WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 208; field number 147/1). Prior register note: Fig. 14E; also shows replacement tooth in Fig. 41A.
+WPR-SP-0169,WPR-TAX-0021,WPR-REP-0002,PV R 37787,Left nasal,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 182; field number 108/1). Prior register note: Isolated left nasal explicitly described/figured in cranial revision.
+WPR-SP-0170,WPR-TAX-0021,WPR-REP-0002,PV R 37728,Ischium and lacrimal,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 136; field number 63/1). Prior register note: Right lacrimal figured in 2023 cranial paper; same catalogue number bears left ischium figured in 2024 postcranial paper.
+WPR-SP-0171,WPR-TAX-0021,WPR-REP-0002,PV R 37731,Frontal,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 138; field number 63/4). Prior register note: Isolated left frontal explicitly figured/described.
+WPR-SP-0172,WPR-TAX-0021,WPR-REP-0002,PV R 38290b,left frontal; right dentary,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Right dentary bears interdental plates (Fig. 38C); frontal also treated in cranial revision. This accession is cited in the main-text literature but is not listed as a separate entry in the claimed complete Spiekman et al. (2023) Table S1 hypodigm. Retained pending NHMUK/source reconciliation.
+WPR-SP-0173,WPR-TAX-0021,WPR-REP-0002,PV R 37711,Frontal,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 119; field number 62/1). Prior register note: Isolated right frontal explicitly figured/described.
+WPR-SP-0174,WPR-TAX-0021,WPR-REP-0002,PV R 37727,Right quadrate and fragments,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 134; field number 61/6abcd). Prior register note: Right quadrate figured in cranial revision.
+WPR-SP-0175,WPR-TAX-0021,WPR-REP-0002,PV R 38291,right palatine,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Fig. 25B; right palatine. This accession is cited in the main-text literature but is not listed as a separate entry in the claimed complete Spiekman et al. (2023) Table S1 hypodigm. Retained pending NHMUK/source reconciliation.
+WPR-SP-0176,WPR-TAX-0021,WPR-REP-0002,PV R 37791,Left pterygoid,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 185; field number 112/1). Prior register note: Left pterygoid explicitly treated in cranial revision.
+WPR-SP-0177,WPR-TAX-0021,WPR-REP-0002,PV R 37697,Partial pterygoid and vertebra,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 109; field number 50/14). Prior register note: Counterpart of left pterygoid PV R 37791.
+WPR-SP-0178,WPR-TAX-0021,WPR-REP-0002,PV R 37665,"Vertebra, pterygoid, and other skull bones",WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 74; field number 26/42). Prior register note: Right pterygoid explicitly described/figured.
+WPR-SP-0179,WPR-TAX-0021,WPR-REP-0002,PV R 37796,Right exoccipital,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 186; field number 128/1). Prior register note: Right otoccipital figured in cranial revision.
+WPR-SP-0180,WPR-TAX-0021,WPR-REP-0002,PV R 37725,Basioccipital,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 129; field number 62/20). Prior register note: Isolated basioccipital explicitly figured/described.
+WPR-SP-0181,WPR-TAX-0021,WPR-REP-0002,PV R 37778,Angular and partial pubis,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 170; field number 65/68). Prior register note: Left angular explicitly figured/described.
+WPR-SP-0182,WPR-TAX-0021,WPR-REP-0002,PV R 37734,Right splenial and possibly right coronoid,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 140; field number 63/8). Prior register note: Right splenial confirmed; associated coronoid identification is tentative in the paper.
+WPR-SP-0183,WPR-TAX-0021,WPR-REP-0002,PV R 37874,Posterior dorsal vertebra,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 78; field number 30/1). Prior register note: Fig. 5A–F; isolated anterior dorsal vertebra.
+WPR-SP-0184,WPR-TAX-0021,WPR-REP-0002,PV R 37894,Dorsal vertebra,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 177; field number 80/1). Prior register note: Fig. 5G–L; isolated mid-dorsal vertebra.
+WPR-SP-0185,WPR-TAX-0021,WPR-REP-0002,PV R 37769,Proximal caudal vertebra,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 161; field number 65/32). Prior register note: Fig. 9C–G; paper states it can only tentatively be referred to Terrestrisuchus gracilis.
+WPR-SP-0186,WPR-TAX-0021,WPR-REP-0002,PV R 37632,Proximal caudal vertebra,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 32; field number 2/1). Prior register note: Fig. 9H–M; paper states it can only tentatively be referred to Terrestrisuchus gracilis.
+WPR-SP-0187,WPR-TAX-0021,WPR-REP-0002,PV R 38851,Complete humerus,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 102; field number 47/22ii). Prior register note: Fig. 16; complete/near-complete left humerus.
+WPR-SP-0188,WPR-TAX-0021,WPR-REP-0002,PV R 37634,"Fragments of long bones and other elements, including well preserved distal end of humerus and proximal ends of radius and ulna",WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 35; field number 5/1). Prior register note: Fig. 17B–F; associated proximal radius and ulna.
+WPR-SP-0189,WPR-TAX-0021,WPR-REP-0002,PV R 37878,Proximal head of a right femur,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 101; field number 47/10). Prior register note: Fig. 24C–G; proximal right femur.
+WPR-SP-0190,WPR-TAX-0021,WPR-REP-0002,PV R 37636,Partial femur,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 38; field number 13/1). Prior register note: Fig. 24H–L; distal right femur.
+WPR-SP-0191,WPR-TAX-0021,WPR-REP-0002,PV R 37789,Right astragalus,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 184; field number 110/1). Prior register note: Fig. 27; isolated right astragalus.
+WPR-SP-0192,WPR-TAX-0021,WPR-REP-0002,PV R 37782,Right calcaneum,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 175; field number 73/1). Prior register note: Fig. 28; isolated right calcaneum.
+WPR-SP-0193,WPR-TAX-0021,WPR-REP-0002,PV R 37865,femur sampled for histology,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,D,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0010,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1577,Article methods/text identify the histology femur as PV R 37865; Fig. 31 caption instead prints PV R 37685. Discrepancy tracked in Unresolved_questions. This accession is cited in the main-text literature but is not listed as a separate entry in the claimed complete Spiekman et al. (2023) Table S1 hypodigm. Retained pending NHMUK/source reconciliation.
+WPR-SP-0194,WPR-TAX-0021,WPR-REP-0002,PV R 37652,Partial left tibia,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 63; field number 26/4). Prior register note: Histology sample; bacterial alteration reportedly destroys most bone tissue.
+WPR-SP-0195,WPR-TAX-0021,WPR-REP-0002,PV R 37653,Partial right tibia,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 64; field number 26/5). Prior register note: Fig. 31B–D; best-preserved tibial histology sample.
+WPR-SP-0196,WPR-TAX-0021,WPR-REP-0002,PV R 37664,Partial left tibia,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 73; field number 26/34). Prior register note: Fig. 31E–F; histology sample.
+WPR-SP-0197,WPR-TAX-0021,WPR-REP-0002,PV R 37896,Distal caudal vertebra,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 180; field number 102/1). Prior register note: Fig. 10D; isolated distal caudal vertebra.
+WPR-SP-0198,WPR-TAX-0021,WPR-REP-0002,PV R 37785,Right coracoid,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 181; field number 104/1). Prior register note: Fig. 14A–B; isolated right coracoid.
+WPR-SP-0199,WPR-TAX-0021,WPR-REP-0002,PV R 37799,Left coracoid,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 190; field number 105/1). Prior register note: Fig. 14C; isolated left coracoid.
+WPR-SP-0200,WPR-TAX-0021,WPR-REP-0002,PV R 37898,Left fibula,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 187; field number 130/1). Prior register note: Fig. 26B–C; partial left fibula.
+WPR-SP-0201,WPR-TAX-0021,WPR-REP-0002,PV R 38297,"Left fibula, osteoderms, and bone fragments",WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 207; field number 143/1abcde). Prior register note: Fig. 26D–E; partial left fibula.
+WPR-SP-0202,WPR-TAX-0021,WPR-REP-0002,PV R 37802,"Osteoderms vertebrae, a nasal, and other fragmentary remains",WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 192; field number 123/1). Prior register note: Fig. 11A; isolated left osteoderm.
+WPR-SP-0203,WPR-TAX-0021,WPR-REP-0002,PV R 7572a,Partial right forelimb and two partially articulated osteoderms,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Yes,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 82; field number 34/1b). Prior register note: Fig. 11B; two associated left osteoderms.
+WPR-SP-0204,WPR-TAX-0021,WPR-REP-0002,PV R 7591b,"Articulated skeleton, dorsal vertebrae and ribs, left pectoral girdle, humerus",WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 8; field number 78/1b).
+WPR-SP-0205,WPR-TAX-0021,WPR-REP-0002,PV R 7591c,Various postcranial bones,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 9; field number 78/1c).
+WPR-SP-0206,WPR-TAX-0021,WPR-REP-0002,PV R 37631,Sacral vertebra,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 31; field number 1/1).
+WPR-SP-0207,WPR-TAX-0021,WPR-REP-0002,PV R 37633,Right ilium,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 33; field number 3/1).
+WPR-SP-0208,WPR-TAX-0021,WPR-REP-0002,PV R 7563,Right calcaneum,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 34; field number 4/1).
+WPR-SP-0209,WPR-TAX-0021,WPR-REP-0002,PV R 37635,Proximal part of ischium,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 36; field number 8/1).
+WPR-SP-0210,WPR-TAX-0021,WPR-REP-0002,PV R 7566,Complete left tibia,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 37; field number 11/1).
+WPR-SP-0211,WPR-TAX-0021,WPR-REP-0002,PV R 37637,Partial maxilla,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 39; field number 16/1).
+WPR-SP-0212,WPR-TAX-0021,WPR-REP-0002,PV R 37638,Pedal phalanx,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 40; field number 17/1).
+WPR-SP-0213,WPR-TAX-0021,WPR-REP-0002,PV R 37639,Right pubis,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 41; field number 19/1).
+WPR-SP-0214,WPR-TAX-0021,WPR-REP-0002,PV R 37640,Frontal,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 42; field number 19/2).
+WPR-SP-0215,WPR-TAX-0021,WPR-REP-0002,PV R 38293,Right coracoid,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 43; field number 19/3).
+WPR-SP-0216,WPR-TAX-0021,WPR-REP-0002,PV R 37866,Left ulna,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 44; field number 19/8).
+WPR-SP-0217,WPR-TAX-0021,WPR-REP-0002,PV R 37641,Left ilium,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 46; field number 20/1).
+WPR-SP-0218,WPR-TAX-0021,WPR-REP-0002,PV R 37867,Partial right tibia,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 47; field number 20/2).
+WPR-SP-0219,WPR-TAX-0021,WPR-REP-0002,PV R 37868,Sacral neural arch,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 48; field number 24/24). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0220,WPR-TAX-0021,WPR-REP-0002,PV R 37869,Imprint of presacral neural arch,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 49; field number 24/26). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0221,WPR-TAX-0021,WPR-REP-0002,PV R 37864,Distal caudal vertebra,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 50; field number 24/33). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0222,WPR-TAX-0021,WPR-REP-0002,PV R 37870,Vertebral centrum,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 51; field number 24/34). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0223,WPR-TAX-0021,WPR-REP-0002,PV R 37871,Left humerus,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 52; field number 24/35).
+WPR-SP-0224,WPR-TAX-0021,WPR-REP-0002,PV R 37872,Vertebral centrum,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 53; field number 24/36). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0225,WPR-TAX-0021,WPR-REP-0002,PV R 37643,Partial right pubis,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 54; field number 25/1).
+WPR-SP-0226,WPR-TAX-0021,WPR-REP-0002,PV R 37644,Partial vertebra,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 55; field number 25/2). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0227,WPR-TAX-0021,WPR-REP-0002,PV R 37645,Distal end of femur,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 56; field number 25/3). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0228,WPR-TAX-0021,WPR-REP-0002,PV R 37646,Distal end of right femur,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 57; field number 25/6).
+WPR-SP-0229,WPR-TAX-0021,WPR-REP-0002,PV R 37647,End of a long bone,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 58; field number 25/7). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0230,WPR-TAX-0021,WPR-REP-0002,PV R 37873,Distal dorsal vertebra,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 59; field number 25/8). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0231,WPR-TAX-0021,WPR-REP-0002,PV R 37648,Vertebral centra,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 60; field number 25/9). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0232,WPR-TAX-0021,WPR-REP-0002,PV R 37650,Metatarsal,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 61; field number 26/2).
+WPR-SP-0233,WPR-TAX-0021,WPR-REP-0002,PV R 37651,Metatarsal,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 62; field number 26/3).
+WPR-SP-0234,WPR-TAX-0021,WPR-REP-0002,PV R 37654,Partial long bone,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 65; field number 26/6). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0235,WPR-TAX-0021,WPR-REP-0002,PV R 37656,Cervical vertebra,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 66; field number 26/13). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0236,WPR-TAX-0021,WPR-REP-0002,PV R 37657,Partial metatarsal,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 67; field number 26/14). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0237,WPR-TAX-0021,WPR-REP-0002,PV R 37658,Double headed dorsal rib,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 68; field number 26/19). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0238,WPR-TAX-0021,WPR-REP-0002,PV R 37660,Proximal end of right tibia,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 69; field number 26/24). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0239,WPR-TAX-0021,WPR-REP-0002,PV R 37661,Partial left femur,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 70; field number 26/29).
+WPR-SP-0240,WPR-TAX-0021,WPR-REP-0002,PV R 37662,Partial metatarsal,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 71; field number 26/32). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0241,WPR-TAX-0021,WPR-REP-0002,PV R 37663,Cervical vertebra,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 72; field number 26/33). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0242,WPR-TAX-0021,WPR-REP-0002,PV R 37666,Distal caudal vertebra,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 75; field number 27/2). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0243,WPR-TAX-0021,WPR-REP-0002,PV R 37669,Manual phalanx,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 77; field number 29/2).
+WPR-SP-0244,WPR-TAX-0021,WPR-REP-0002,PV R 37875,Partial left femur,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 79; field number 30/2).
+WPR-SP-0245,WPR-TAX-0021,WPR-REP-0002,PV R 37671,Two pedal phalanges,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 80; field number 31/5).
+WPR-SP-0246,WPR-TAX-0021,WPR-REP-0002,PV R 37673,Supraoccipital,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 81; field number 31/11).
+WPR-SP-0247,WPR-TAX-0021,WPR-REP-0002,PV R 37815,Left dentary,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 84; field number 37/1).
+WPR-SP-0248,WPR-TAX-0021,WPR-REP-0002,PV R 37816,Partial femur,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 85; field number 38/1). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0249,WPR-TAX-0021,WPR-REP-0002,PV R 37677,Partial dorsal rib,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 86; field number 38/2).
+WPR-SP-0250,WPR-TAX-0021,WPR-REP-0002,PV R 37679,Complete left humerus,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 87; field number 38/7).
+WPR-SP-0251,WPR-TAX-0021,WPR-REP-0002,PV R 37681,Partial left humerus,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 88; field number 42/1).
+WPR-SP-0252,WPR-TAX-0021,WPR-REP-0002,PV R 38852,Partial cervical rib,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 89; field number 42/2). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0253,WPR-TAX-0021,WPR-REP-0002,PV R 37682,Proximal chevron,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 90; field number 43/1). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0254,WPR-TAX-0021,WPR-REP-0002,PV R 37877,Complete right tibia,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 91; field number 44/1).
+WPR-SP-0255,WPR-TAX-0021,WPR-REP-0002,PV R 37683,Manual phalanx,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 92; field number 44/4). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0256,WPR-TAX-0021,WPR-REP-0002,PV R 37684,Manual phalanx,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 93; field number 44/5). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0257,WPR-TAX-0021,WPR-REP-0002,PV R 37685,Left quadrate,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 94; field number 47/1).
+WPR-SP-0258,WPR-TAX-0021,WPR-REP-0002,PV R 37686,Chevron,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 95; field number 47/2). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0259,WPR-TAX-0021,WPR-REP-0002,PV R 37687,Dorsal centrum,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 96; field number 47/3). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0260,WPR-TAX-0021,WPR-REP-0002,PV R 37688,Metapodial,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 97; field number 47/5). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0261,WPR-TAX-0021,WPR-REP-0002,PV R 37689,Dorsal rib,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 98; field number 47/6).
+WPR-SP-0262,WPR-TAX-0021,WPR-REP-0002,PV R 37690,Partial dorsal vertebra,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 99; field number 47/7). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0263,WPR-TAX-0021,WPR-REP-0002,PV R 37691,Two cervical vertebrae in articulation,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 100; field number 47/9).
+WPR-SP-0264,WPR-TAX-0021,WPR-REP-0002,PV R 37879,Dorsal vertebral centrum,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 103; field number 48/1). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0265,WPR-TAX-0021,WPR-REP-0002,PV R 37694,Partial angular,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 105; field number 50/4).
+WPR-SP-0266,WPR-TAX-0021,WPR-REP-0002,PV R 37695,Distal end of right humerus,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 107; field number 50/5).
+WPR-SP-0267,WPR-TAX-0021,WPR-REP-0002,PV R 37696,Distal end of right femur,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 108; field number 50/6).
+WPR-SP-0268,WPR-TAX-0021,WPR-REP-0002,PV R 37880,Left coracoid,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 110; field number 50/15).
+WPR-SP-0269,WPR-TAX-0021,WPR-REP-0002,PV R 37698,Dorsal rib,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 111; field number 50/23).
+WPR-SP-0270,WPR-TAX-0021,WPR-REP-0002,PV R 37699,Dorsal rib,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 112; field number 50/24).
+WPR-SP-0271,WPR-TAX-0021,WPR-REP-0002,PV R 37700,Dorsal rib,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 113; field number 50/26). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0272,WPR-TAX-0021,WPR-REP-0002,PV R 37882,Partial right ulna,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 114; field number 54/1).
+WPR-SP-0273,WPR-TAX-0021,WPR-REP-0002,PV R 37702,Partial femur,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 115; field number 56/1).
+WPR-SP-0274,WPR-TAX-0021,WPR-REP-0002,PV R 37708,Left pubic shaft,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 116; field number 60).
+WPR-SP-0275,WPR-TAX-0021,WPR-REP-0002,PV R 37709,Right femur,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 117; field number 61/1).
+WPR-SP-0276,WPR-TAX-0021,WPR-REP-0002,PV R 37710,Partial fibula,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 118; field number 61/3).
+WPR-SP-0277,WPR-TAX-0021,WPR-REP-0002,PV R 37714,Partial fibula,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 120; field number 62/6).
+WPR-SP-0278,WPR-TAX-0021,WPR-REP-0002,PV R 37883,Metatarsal,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 121; field number 62/7). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0279,WPR-TAX-0021,WPR-REP-0002,PV R 37884,"Fragmentary shafts of metatarsals, metacarpals, or phalanges",WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 122; field number 62/8). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0280,WPR-TAX-0021,WPR-REP-0002,PV R 37715,Small cervical vertebra,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 123; field number 62/10). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0281,WPR-TAX-0021,WPR-REP-0002,PV R 37718,Caudal vertebral centrum,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 124; field number 62/13). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0282,WPR-TAX-0021,WPR-REP-0002,PV R 37719,Dorsal vertebral centrum,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 125; field number 62/14). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0283,WPR-TAX-0021,WPR-REP-0002,PV R 37721,Two articulated cervical vertebrae,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 126; field number 62/16).
+WPR-SP-0284,WPR-TAX-0021,WPR-REP-0002,PV R 37722,Caudal vertebral centrum,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 127; field number 62/17). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0285,WPR-TAX-0021,WPR-REP-0002,PV R 37724,"Osteoderm and elongate element, possibly a distal caudal vertebra",WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 128; field number 62/19).
+WPR-SP-0286,WPR-TAX-0021,WPR-REP-0002,PV R 7574,Partial right ulna and end of another long bone,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 130; field number 62/21).
+WPR-SP-0287,WPR-TAX-0021,WPR-REP-0002,PV R 7586,Left humerus and another long bone,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 132; field number 61/2ab).
+WPR-SP-0288,WPR-TAX-0021,WPR-REP-0002,PV R 37730,Left ilium,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 137; field number 63/3).
+WPR-SP-0289,WPR-TAX-0021,WPR-REP-0002,PV R 37732,Partial metatarsal,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 139; field number 63/5). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0290,WPR-TAX-0021,WPR-REP-0002,PV R 37739,Humerus,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 141; field number 63/13).
+WPR-SP-0291,WPR-TAX-0021,WPR-REP-0002,PV R 37740,Partial distal caudal vertebra,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 142; field number 63/14).
+WPR-SP-0292,WPR-TAX-0021,WPR-REP-0002,PV R 37747,Osteoderm,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 143; field number 63/22).
+WPR-SP-0293,WPR-TAX-0021,WPR-REP-0002,PV R 37751,"Several disarticulated bones, including a parietal",WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 145; field number 63/26).
+WPR-SP-0294,WPR-TAX-0021,WPR-REP-0002,PV R 37752,"Various disarticulated elements, including a scapula",WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 147; field number 63/27).
+WPR-SP-0295,WPR-TAX-0021,WPR-REP-0002,PV R 37753,"Bone fragments, including a scute",WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 148; field number 63/28).
+WPR-SP-0296,WPR-TAX-0021,WPR-REP-0002,PV R 37755,Two fragmentary scapulae,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 149; field number 63/30). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0297,WPR-TAX-0021,WPR-REP-0002,PV R 37759,Partial right tibia,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 150; field number 63/34). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0298,WPR-TAX-0021,WPR-REP-0002,PV R 38292a,"Left coracoid, interclavicle, and fragment",WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 151; field number 63/36a).
+WPR-SP-0299,WPR-TAX-0021,WPR-REP-0002,PV R 38292b,Gastralia,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 152; field number 63/36b).
+WPR-SP-0300,WPR-TAX-0021,WPR-REP-0002,PV R 7584,Left squamosal and right tibia,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 154; field number 65/38).
+WPR-SP-0301,WPR-TAX-0021,WPR-REP-0002,PV R 7585,Partial fibula,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 155; field number 65/48).
+WPR-SP-0302,WPR-TAX-0021,WPR-REP-0002,PV R 37760,Right squamosal and right palatine,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 157; field number 65/18).
+WPR-SP-0303,WPR-TAX-0021,WPR-REP-0002,PV R 37761,Left palatine,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 158; field number 65/20).
+WPR-SP-0304,WPR-TAX-0021,WPR-REP-0002,PV R 37762,Right calcaneum,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 159; field number 65/22).
+WPR-SP-0305,WPR-TAX-0021,WPR-REP-0002,PV R 7595,Cervical vertebra,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 160; field number 65/24).
+WPR-SP-0306,WPR-TAX-0021,WPR-REP-0002,PV R 37886,Two partial osteoderms and a partial distal caudal vertebra,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 162; field number 65/37).
+WPR-SP-0307,WPR-TAX-0021,WPR-REP-0002,PV R 37888,Osteoderm,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 163; field number 65/44).
+WPR-SP-0308,WPR-TAX-0021,WPR-REP-0002,PV R 37775,Possible interclavicle,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 164; field number 65/46). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0309,WPR-TAX-0021,WPR-REP-0002,PV R 37889,Coracoid fragment,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 165; field number 65/47).
+WPR-SP-0310,WPR-TAX-0021,WPR-REP-0002,PV R 37890,Tooth,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 166; field number 65/50).
+WPR-SP-0311,WPR-TAX-0021,WPR-REP-0002,PV R 37891,Proximal caudal vertebra,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 167; field number 65/51). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0312,WPR-TAX-0021,WPR-REP-0002,PV R 37779,Dorsal rib,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 168; field number 65/52). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0313,WPR-TAX-0021,WPR-REP-0002,PV R 37777,Pterygoid,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 169; field number 65/54ab).
+WPR-SP-0314,WPR-TAX-0021,WPR-REP-0002,PV R 37780,Partial left tibia,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 171; field number 66/2).
+WPR-SP-0315,WPR-TAX-0021,WPR-REP-0002,PV R 37892,Left pubis,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 172; field number 67/1).
+WPR-SP-0316,WPR-TAX-0021,WPR-REP-0002,PV R 37893,Potential interclavicle,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 174; field number 70/1). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0317,WPR-TAX-0021,WPR-REP-0002,PV R 37783,Partial right femur,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 176; field number 74/1).
+WPR-SP-0318,WPR-TAX-0021,WPR-REP-0002,PV R 37895,Proximal caudal vertebra and fragment,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 179; field number 101/1). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0319,WPR-TAX-0021,WPR-REP-0002,PV R 37798,Two partial dorsal vertebrae and other fragments,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 189; field number 103/1a-c).
+WPR-SP-0320,WPR-TAX-0021,WPR-REP-0002,PV R 37801,Right nasal,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 191; field number 120/1).
+WPR-SP-0321,WPR-TAX-0021,WPR-REP-0002,PV R 37803,Right tibia and unidentified long bone,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 193; field number 124/1).
+WPR-SP-0322,WPR-TAX-0021,WPR-REP-0002,PV R 37804,Poorly preserved pterygoid,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 194; field number 129/1).
+WPR-SP-0323,WPR-TAX-0021,WPR-REP-0002,PV R 37044,"Left ilium, partial long bone, and fragment",WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 195; field number ?).
+WPR-SP-0324,WPR-TAX-0021,WPR-REP-0002,PV R 37805,Metatarsal V,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 197; field number 133/1).
+WPR-SP-0325,WPR-TAX-0021,WPR-REP-0002,PV R 37807,Partial astragalus,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 198; field number 135/1).
+WPR-SP-0326,WPR-TAX-0021,WPR-REP-0002,PV R 38359,Partial right humerus,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 199; field number 142/1).
+WPR-SP-0327,WPR-TAX-0021,WPR-REP-0002,PV R 37812,Basioccipital,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 200; field number 145/1).
+WPR-SP-0328,WPR-TAX-0021,WPR-REP-0002,PV R 38853,Partial mid to posterior caudal vertebra,WPR-LOC-0009,WPR-GEO-0011,,,,Tentatively referred,Unknown,B,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,"Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 201; field number 146/1a). Table S1 prints this specimen in bold, indicating tentative assignment to Terrestrisuchus gracilis."
+WPR-SP-0329,WPR-TAX-0021,WPR-REP-0002,PV R 38299,Partial frontal,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 202; field number 146/1b).
+WPR-SP-0330,WPR-TAX-0021,WPR-REP-0002,PV R 37957,Right cervical rib and fragmentary remains,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 205; field number 138/1).
+WPR-SP-0331,WPR-TAX-0021,WPR-REP-0002,PV R 38296,Left pubis,WPR-LOC-0009,WPR-GEO-0011,,,,Referred,Unknown,A,A,Museum accessioned,Unknown,Unknown,WPR-PUB-0013,https://onlinelibrary.wiley.com/doi/10.1002/spp2.1534,Directly reconciled from Spiekman et al. (2023) supplementary Table S1 (supplement row 209; field number 150/1).
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
